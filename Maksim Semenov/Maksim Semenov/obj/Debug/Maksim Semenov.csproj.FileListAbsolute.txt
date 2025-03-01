@@ -1,0 +1,25 @@
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\Maksim Semenov.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\Maksim Semenov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\MainWindow.baml
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\App.g.cs
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\Maksim Semenov_Content.g.cs
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\Maksim Semenov_MarkupCompile.cache
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\Maksim Semenov.g.resources
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\Maksim_Semenov.Properties.Resources.resources
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\Maksim Semenov.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\Maksim Semenov.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\bin\Debug\Maksim Semenov.exe.config
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\bin\Debug\Maksim Semenov.exe
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\bin\Debug\Maksim Semenov.pdb
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\bin\Debug\EntityFramework.dll
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\bin\Debug\EntityFramework.xml
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\Maksim Semenov.csproj.CopyComplete
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\Maksim Semenov.exe
+C:\Users\Максим\source\repos\Dems_421\Maksim Semenov\Maksim Semenov\obj\Debug\Maksim Semenov.pdb
