@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="DiyazAkhmetvaliev421.Components.ProductUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DiyazAkhmetvaliev421.Components"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid Margin="5" Width="1120" Height="160">
+            <Rectangle x:Name="BackRct" Fill="White" Stroke="#FF00CC76"></Rectangle>
+            <StackPanel Orientation="Horizontal">
+                <Image Margin="5" Height="150" Width="150" x:Name="ProductImg" Stretch="Fill" Source="/Resources/picture.png" />
+                <StackPanel Orientation="Vertical">
+                    <TextBlock FontSize="30" FontWeight="Bold" x:Name="NameTb">nbnbvnb</TextBlock>
+                    <TextBlock x:Name="ArticuleTb">345677</TextBlock>
+                    <TextBlock x:Name="MaterialsTb" Width="900" TextWrapping="Wrap"></TextBlock>
+                </StackPanel>
+            </StackPanel>
+            <TextBlock HorizontalAlignment="Right" Margin="10" x:Name="PriceTB">gjhghjgjgjhg</TextBlock>
+        </Grid>
+    </Grid>
+</UserControl>
