@@ -7,7 +7,7 @@
         <TextBox Name="SearchBox" Width="200" Height="25" VerticalAlignment="Top" Margin="10"
                   TextChanged="SearchBox_TextChanged"/>
 
-        <ListView Name="ProductListView" Margin="10,40,10,50" SelectionMode="Extended">
+        <ListView Name="ProductListView"  Margin="10,40,10,50" SelectionMode="Extended">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="ID" DisplayMemberBinding="{Binding ID}" Width="50"/>
